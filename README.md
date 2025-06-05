@@ -5,6 +5,6 @@ Total Power Indicator somewhat resembles other oscillator indicators. It support
 
 ![Total Power Indicator shows a persistent uptrend on this CHF/JPY chart](https://github.com/EarnForex/Total-Power-Indicator/blob/main/README_Images/total-power-indicator-bullish-trend.png)
 
-More information about this custom MetaTrader indicator is available here: https://www.earnforex.com/metatrader-indicators/TotalPowerIndicator/
+More information about this custom MetaTrader indicator is available here: https://www.earnforex.com/indicators/TotalPowerIndicator/
 
 Any contributions to the code are welcome!
